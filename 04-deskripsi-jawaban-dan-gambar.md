@@ -1,0 +1,3 @@
+CI/CD diperlukan karena CI/CD dapat mengurangi risiko software yang tidak berfungsi dengan baik dalam production,dapat membuat rapid iteration berdasarkan feedback customer, CI/CD mengurangi Mean Time To Resolution (MTTR) karena perubahan kode yang lebih kecil dan isolasi kesalahan lebih mudah dideteksi dan lebih mudah diterapkan.
+
+untuk workflow dari CI/CD yang pertama yaitu commit katika developer menyelesaikan perubahan pada code, developer akan mencommit code ke repository, kode sumber dari repository diintegrasikan ke build, setelah itu automate test akan dijalankan, setelah selesai automate test akan di deploy ke production
